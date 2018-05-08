@@ -1,2 +1,2 @@
 start use git
-first change
+first change and prepare for pushing
